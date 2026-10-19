@@ -1,0 +1,9 @@
+order_id,customer,city,amount,status
+1001,Tom,Xian,120,paid
+1002,Amy,Beijing,85,paid
+1003,Tom,Xian,200,refunded
+1004,Lucy,Shanghai,abc,paid
+1005,Amy,Beijing,60,pending
+1006,Jack,Xian,150,paid
+1007,Lucy,Shanghai,95,Paid
+1008,Tom,Xian,40,pending
